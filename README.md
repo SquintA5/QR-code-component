@@ -15,6 +15,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5
 - CSS custom properties
 
+### Links
+Live site URL: https://squinta5.github.io/QR-code-component/
+
 ### Useful resources
 
 - https://www.w3schools.com/html/default.asp
